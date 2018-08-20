@@ -535,7 +535,7 @@ SANTOKU Linux: <https://santoku-linux.com/>
 
 SANS SIFT: <https://digital-forensics.sans.org/community/downloads>
 
-\##Hunting
+## Hunting
 
 <https://holdmybeersecurity.com/2018/01/16/part-2a-intro-to-threat-hunting-with-kolide-fleet-osquery-powershell-empire-and-caldera-setup-environment/>
 
