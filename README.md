@@ -1,6 +1,6 @@
 # Threat Intelligence Documents For SOC
 
-## PCMC SOC TEAM (CMC INFOSEC)
+## CMC SOC TEAM (CMC INFOSEC)
 
 ## Pentest, hacking awesome resource
 
